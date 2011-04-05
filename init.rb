@@ -1,0 +1,1 @@
+require 'vat_validator'
